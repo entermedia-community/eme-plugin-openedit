@@ -11,7 +11,7 @@
   </property>
   <property name="text.Import">
     <value>Import</value>
-    <value locale="es">Importación</value>
+    <value locale="es">Importar</value>
   </property>
   <property name="text.Once the upload is completed the store search will automatically contain the new product data">
     <value>Once the upload is completed the store search will automatically contain the new product data</value>
