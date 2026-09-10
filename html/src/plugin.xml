@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<beans projectname="openedit" depends="entermedia">
+<beans projectname="openedit" depends="finder">
 
 	<bean id="velocity" class="org.entermediadb.asset.generators.ToolbarGenerator" >
 		<property name="headerPath"><value>/openedit/components/html/toolbar.html</value></property>
