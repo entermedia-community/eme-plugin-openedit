@@ -19,7 +19,7 @@
 
 	<path-action name="TranslationModule.loadBrowserLanguage" />
 
-	<property name="themeid">theme</property>
+	<property name="themeid">defaulttheme</property>
   	<path-action name="ThemeModule.loadCurrentTheme" />
 
 	<property name="allowspecifiedpath">true</property>
