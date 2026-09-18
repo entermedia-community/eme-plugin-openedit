@@ -67,6 +67,7 @@
     #end
 </table>
 </div>
+#set($candeleteasset = $permissions.canModule("asset", "deleteasset"))
 #if( $candeleteasset )
 <br>
 <input onclick="deleteAll()" value="[[delete old versions]]" name="Delete" type="button" class="oestandard-button">
