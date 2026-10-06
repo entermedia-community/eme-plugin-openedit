@@ -1,9 +1,14 @@
 #
-#Tue Jan 26 14:57:40 EST 2016
-Live\ Mode=Mode Direct
-Edit\ Mode=Edit Mode
-Logout=Se d\u00E9connecter
+#Tue Sep 15 16:29:01 EDT 2026
+Cache\ Mode=Mode de cache
+Clear\ Page\ Cache=Nettoyer le cache de page
 Debug\ Mode=Mode d\u00E9bogage
-Home=Accueil
+Edit\ Mode=Edit Mode
 File\ Manager=Gestionnaire de fichiers
+Home=Accueil
+Live\ Mode=Mode Direct
+Logout=Se d\u00E9connecter
+No\ Cache\ Mode=Pas de mode cache
+Post\ Edit\ Mode=Mode de modification de publication
+Preview\ Mode=Mode d'aper\u00E7u
 filemanager=gestionnaire de fichiers
