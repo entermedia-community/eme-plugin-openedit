@@ -21,7 +21,7 @@ end. It's a real Java+bean plugin (`html/src/plugin.xml`), unlike `manager` or `
 - `html/views/{assets,filemanager,import,links,reports,workflow}/` Admin-facing screens reachable
   from the toolbar (asset browser, file manager, import tool, link checker, reports, approval
   workflow)
-- `html/authentication/` Login/logout/password-reset pages used when the toolbar requires a login
+- `html/authentication/` Only `_site.xconf`: it sets `loginroot` and falls back to `/community/default/authentication` for the login/logout pages used when the toolbar requires a login (there is no password login)
 - `html/theme/` Openedit's own layouts/styles for its screens
 - `html/scripts/oeupload.groovy` Upload handling script
 
